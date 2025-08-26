@@ -1,6 +1,7 @@
 # module1-codexes-claims-analysis
 Source Data: https://data.cms.gov/collection/synthetic-medicare-enrollment-fee-for-service-claims-and-prescription-drug-event
-Note: Use Inpatient.csv file from csv 
+
+Note: Use Inpatient.csv file from csv and utilize code book for definitions
 
 Hello this is my test run for class terribly sorry for the shoddy coding :3
 
