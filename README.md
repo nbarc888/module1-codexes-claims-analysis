@@ -5,6 +5,8 @@ Code Guide: https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claim
 
 Note: Use Inpatient.csv file from csv and utilize code book for definitions
 
+ICD CODEX: https://www.icd10data.com/
+
 
 Focus codes utilized: ICD diagnosis, HCPCS, Principal Diagnosis code, Claim Admitting Diagnosis Code, Claim Inpatient Admission Type Code, Claim Source Inpatient Admission Code, NCH Patient Status Indicator Code, Claim Diagnosis Related Group Code.
 
