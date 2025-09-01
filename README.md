@@ -1,7 +1,7 @@
 # module1-codexes-claims-analysis
 Source Data: https://data.cms.gov/collection/synthetic-medicare-enrollment-fee-for-service-claims-and-prescription-drug-event
 
-Code Guide: https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf 
+Codex Guide: https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf 
 
 Note: Use Inpatient.csv file from csv and utilize code book for definitions
 
@@ -10,7 +10,7 @@ ICD CODEX: https://www.icd10data.com/
 
 Focus codes utilized: ICD diagnosis, HCPCS, Principal Diagnosis code, Claim Admitting Diagnosis Code, Claim Inpatient Admission Type Code, Claim Source Inpatient Admission Code, NCH Patient Status Indicator Code, Claim Diagnosis Related Group Code.
 
-See Below for descriptions of codes based on the source. 
+See Below for descriptions of codes based on the Codex Guide above. 
 
 | Focus Code | Label | Description | 
 |------------|-------------| ---------------| 
